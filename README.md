@@ -13,12 +13,14 @@ Description:
 
 X-axis: Age of users. Y-axis: Frequency of users within each age group. Purpose: To understand the age demographics of the user base. Interpretation: The distribution shows the frequency of users in different age groups. The data appears to be evenly distributed across different ages, which is expected in synthetic data.
 
+
 2. Session Length Distribution
 ![download](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group/assets/74470460/01701ca4-ef55-4176-9e2c-a23041763226)
 
 Description:
 
 X-axis: Length of user sessions in minutes. Y-axis: Frequency of sessions of each length. Purpose: To analyze the typical session lengths of users. Interpretation: The histogram shows that session lengths are uniformly distributed, indicating users spend varying amounts of time in each session.
+
 
 3. Bet Amount Distribution
 ![download](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group/assets/74470460/5984e8f8-53e2-49a1-b56d-71aafae54f8c)
@@ -33,6 +35,7 @@ X-axis: Amount of money bet by users in dollars. Y-axis: Frequency of bets of ea
 Description:
 
 X-axis: Amount of money won by users in dollars. Y-axis: Frequency of wins of each amount. Purpose: To analyze the distribution of win amounts among users. Interpretation: The distribution is uniform, reflecting a wide range of win amounts among users.
+
 
 5. Churn Rate by Country
 ![download](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group/assets/74470460/a3e35332-0309-4e86-8177-43a9fe04cd8e)
