@@ -39,7 +39,8 @@ X-axis: Amount of money won by users in dollars. Y-axis: Frequency of wins of ea
 
 X-axis: Countries of users. Y-axis: Churn rate (proportion of users who stop using the platform). Purpose: To compare churn rates across different countries. Interpretation: The bar chart shows the churn rates for different countries, indicating where user retention might need improvement. For example, Germany has the highest churn rate, while France has the lowest.
 
-Conclusion
+
+Conclusion:
 
 These visualizations help in understanding user behavior and identifying patterns that can inform strategic decisions. For instance:
 
