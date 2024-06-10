@@ -9,7 +9,6 @@ Explanation of the Graphs
 1. Age Distribution of Users
 ![download](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group/assets/74470460/3b5c79bc-7207-4748-8601-e429b0432b37)
 
-Description:
 
 X-axis: Age of users. Y-axis: Frequency of users within each age group. Purpose: To understand the age demographics of the user base. Interpretation: The distribution shows the frequency of users in different age groups. The data appears to be evenly distributed across different ages, which is expected in synthetic data.
 
@@ -17,7 +16,6 @@ X-axis: Age of users. Y-axis: Frequency of users within each age group. Purpose:
 2. Session Length Distribution
 ![download](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group/assets/74470460/01701ca4-ef55-4176-9e2c-a23041763226)
 
-Description:
 
 X-axis: Length of user sessions in minutes. Y-axis: Frequency of sessions of each length. Purpose: To analyze the typical session lengths of users. Interpretation: The histogram shows that session lengths are uniformly distributed, indicating users spend varying amounts of time in each session.
 
@@ -25,14 +23,12 @@ X-axis: Length of user sessions in minutes. Y-axis: Frequency of sessions of eac
 3. Bet Amount Distribution
 ![download](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group/assets/74470460/5984e8f8-53e2-49a1-b56d-71aafae54f8c)
 
-Description:
 
 X-axis: Amount of money bet by users in dollars. Y-axis: Frequency of bets of each amount. Purpose: To understand the distribution of bet amounts placed by users. Interpretation: The histogram displays a uniform distribution of bet amounts, indicating users place bets of varying amounts.
 
 4. Win Amount Distribution
 ![download](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group/assets/74470460/d1398c00-1ebd-4416-bcaf-4a11c336907b)
 
-Description:
 
 X-axis: Amount of money won by users in dollars. Y-axis: Frequency of wins of each amount. Purpose: To analyze the distribution of win amounts among users. Interpretation: The distribution is uniform, reflecting a wide range of win amounts among users.
 
@@ -40,7 +36,6 @@ X-axis: Amount of money won by users in dollars. Y-axis: Frequency of wins of ea
 5. Churn Rate by Country
 ![download](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group/assets/74470460/a3e35332-0309-4e86-8177-43a9fe04cd8e)
 
-Description:
 
 X-axis: Countries of users. Y-axis: Churn rate (proportion of users who stop using the platform). Purpose: To compare churn rates across different countries. Interpretation: The bar chart shows the churn rates for different countries, indicating where user retention might need improvement. For example, Germany has the highest churn rate, while France has the lowest.
 
